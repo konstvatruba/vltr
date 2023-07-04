@@ -1,7 +1,8 @@
 ---
-title: Vultur Chile 
+title:  
 description: Bienvenidos a nuestra página web
 ---
+![Image alt](images/Imagotipo Consulting RGB 75.png)
 
 ¡Hola! Bienvenidos a nuestra página web. Somos Vultur Chile – un equipo de profesionales dedicados a los servicios de consultoría con mas de 6 años de experiencia. 
 
