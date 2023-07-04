@@ -3,7 +3,7 @@ title:
 description: Bienvenidos a nuestra página web
 ---
 
-![Vultur Logo](https://github.com/konstvatruba/vltr/blob/main/images/Imagotipo%20Consulting%20RGB%2075.png)
+!(https://github.com/konstvatruba/vltr/blob/main/images/Imagotipo%20Consulting%20RGB%2075.png)
 
 
 
