@@ -3,7 +3,8 @@ title:
 description: Bienvenidos a nuestra página web
 ---
 
-!(https://github.com/konstvatruba/vltr/blob/main/images/Imagotipo%20Consulting%20RGB%2075.png)
+<img src="[https://github.com/konstvatruba/vltr/blob/main/images/Imagotipo%20Consulting%20RGB%2075.png]" width="200" height="100">
+
 
 
 
