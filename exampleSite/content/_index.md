@@ -1,11 +1,9 @@
 ---
-title:  
+title: Vultur Chile   
 description: Bienvenidos a nuestra página web
 ---
 
-<img src="[https://github.com/konstvatruba/vltr/blob/main/images/Imagotipo%20Consulting%20RGB%2075.png]" width="200" height="100">
-
-
+![image](https://github.com/konstvatruba/vltr/assets/20729792/4466a5ea-6308-4be6-b317-71ee775faa7c)
 
 
 ¡Hola! Bienvenidos a nuestra página web. Somos Vultur Chile – un equipo de profesionales dedicados a los servicios de consultoría con mas de 6 años de experiencia. 
